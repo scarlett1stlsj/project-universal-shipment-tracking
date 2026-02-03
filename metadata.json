@@ -1,0 +1,8 @@
+
+{
+  "name": "UseOmni.io: Universal Tracking Platform",
+  "description": "A comprehensive package tracking and delivery management dashboard that consolidates tracking from all major carriers and uses AI to parse shipment details from emails.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
